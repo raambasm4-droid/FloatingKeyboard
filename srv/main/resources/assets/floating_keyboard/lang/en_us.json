@@ -1,0 +1,23 @@
+{
+  "key.floating_keyboard.toggle": "Toggle Floating Keyboard",
+  "key.floating_keyboard.settings": "Floating Keyboard Settings",
+  "category.floating_keyboard": "Floating Keyboard",
+  "floating_keyboard.title": "Floating Keyboard",
+  "floating_keyboard.page_letters": "ABC",
+  "floating_keyboard.page_symbols": "123",
+  "floating_keyboard.caps": "Caps",
+  "floating_keyboard.backspace": "Backspace",
+  "floating_keyboard.paste": "Paste",
+  "floating_keyboard.enter": "Enter",
+  "floating_keyboard.space": "Space",
+  "floating_keyboard.prev": "ABC",
+  "floating_keyboard.next": "123",
+  "floating_keyboard.no_target": "No text field focused",
+  "floating_keyboard.settings.title": "Floating Keyboard Settings",
+  "floating_keyboard.settings.x": "X position",
+  "floating_keyboard.settings.y": "Y position",
+  "floating_keyboard.settings.scale": "Keyboard size",
+  "floating_keyboard.settings.save": "Save",
+  "floating_keyboard.settings.reset": "Reset",
+  "floating_keyboard.settings.hint": "Drag the keyboard with the top bar. Changes are saved to config/floating_keyboard.json."
+}
