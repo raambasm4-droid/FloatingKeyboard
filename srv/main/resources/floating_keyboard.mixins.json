@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.abhikaran.floatingkeyboard.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ScreenRenderMixin",
+    "MouseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
